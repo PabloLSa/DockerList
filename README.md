@@ -1,10 +1,9 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+#DockerList
+
+Esse projeto foi importante não só para fixar meu aprendizado da seção de Docker (conceito e comandos de manipulação de containers e imagens), como também foi importante para mim conseguir entender, de forma introdutória, sobre a comunicação entre serviços, no nosso caso, o front-end e back-end.
+Todos os arquivos commands, dockerfiles e docker-compose.yml, foram os arquivos que desenvolvi para ter a aprovação Trybe de 100p or cento de aproveitamento!!  
+
+
+" ...já estamos chegando no momento que isso também vai acontecer com desenvolvedores que não conhecem Docker. Para subir qualquer ambiente, para rodar um projeto, para entregar, colocar em produção; tudo isso você vai sem dúvidas precisar de Docker..."
+
+
